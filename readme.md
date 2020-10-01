@@ -18,3 +18,9 @@ This repository demonstrates a very simple yet very effective and scalable event
     - Use the first Pub/Sub topic created in step ealier
     - In the payload section, use the [payload.json](payload.json) file
 
+## To Do
+Automate setup processes with scripts
+
+
+## License
+[Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
