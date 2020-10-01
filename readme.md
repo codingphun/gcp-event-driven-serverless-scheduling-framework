@@ -19,7 +19,7 @@ This repository demonstrates a very simple yet very effective and scalable event
     - In the payload section, use the [payload.json](payload.json) file
 
 ## To Do
-Automate setup processes with scripts
+Automate setup process with scripts
 
 
 ## License
